@@ -101,7 +101,7 @@ body {
 #minutes {
     position: absolute;
     height: 200px;
-    width: 2px;
+    width: 4px;
     background: black;
     position: absolute;
     top: 0;
